@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
         
+        //Configurado o Locale para que o ponto seja usado como separador decimal
         Locale.setDefault(Locale.US);
 
         //TODO: Conhecer e importar a classe Scanner
